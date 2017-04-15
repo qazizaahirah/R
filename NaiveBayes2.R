@@ -1,3 +1,4 @@
+#Author: Qazi Zaahirah
 rm(list=ls())
 set.seed(42);
 require(C50)

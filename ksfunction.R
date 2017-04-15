@@ -1,3 +1,4 @@
+#Author: Qazi Zaahirah
 require(ggplot2)
 KSTest <- function(path, filenames,title,legends,plotpath){
   path1 <-paste(path, filenames[[1]], sep = "")

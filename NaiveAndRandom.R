@@ -1,4 +1,5 @@
 # this program modelis the Naive Bayes and Random Forest and then performs T Test
+#Author: Qazi Zaahirah
 rm(list=ls())
 set.seed(42);
 movie<-read.table(moviePath, sep="\t",encoding="UTF-8")
